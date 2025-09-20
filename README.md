@@ -11,7 +11,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" style="padding-right: 10px; border: none;">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=drtx32&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=drtx32&show_icons=true&locale=en&layout=compact&theme=transparent&line_height=0" />
     </td>
     <td width="30%" style="border: none;">
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=drtx32&show_icons=true&hide=&cache_seconds=86400&theme=transparent&locale=en" />
